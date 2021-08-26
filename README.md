@@ -44,5 +44,3 @@ Finally used cv2.putText to have the number of points and the area written on th
 
 
 
-Name:     Sourjodipto Das                                     Mobile Number: 8159944466
-
